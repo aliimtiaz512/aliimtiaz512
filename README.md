@@ -7,7 +7,7 @@
 🎯 Full-Stack AI Engineer | AI/ML Specialist
 📍 Based in Lahore, Pakistan
 📧 Reach me at: [aliimtiaz1812@gmail.com](mailto:aliimtiaz1812@gmail.com)
-  🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/muhammad-ali-imtiaz-564056259) | [GitHub](https://github.com/aliimtiaz512)
+    🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/muhammad-ali-imtiaz-564056259) | [GitHub](https://github.com/aliimtiaz512)
 
 ---
 
@@ -40,8 +40,8 @@ I'm a **Full-Stack AI Engineer** with 2+ years of freelance web development expe
 
 ## 🎉 Fun Facts
 
-- I've built pipelines that turn hours of manual work into minutes, automation is my favorite kind of magic. ⚡
-- I love chaining LLMs into agents that actually get things done. 🤖
+- I've built pipelines that turn hours of manual work into minutes, automation is my favorite kind of magic. 
+- I love chaining LLMs into agents that actually get things done. 
 
 ---
 
